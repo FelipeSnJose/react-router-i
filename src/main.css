@@ -1,0 +1,12 @@
+#root {
+  text-align: center;
+}
+
+.logo{
+  font-size: 70px;
+}
+
+.cakeNotFound{
+  height: 500px;
+  margin: 20px;
+}
